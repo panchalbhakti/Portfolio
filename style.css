@@ -182,7 +182,7 @@ h1 {
 
 
 
-#resume {
+button {
     color: white;
     background-color: orange;
     border: none;
@@ -214,7 +214,7 @@ h1 {
 }
 
 .icons {
-    margin: 5rem 0rem 6rem 5rem;
+    margin: 5rem 5rem 6rem 5rem;
     animation: fadeIn 1.5s ease-in-out, slideIn 1.5s ease-in-out;
 }
 
@@ -322,7 +322,7 @@ h2 {
         margin-top: 0.5rem;
     }
 
-    #resume {
+    button {
         margin: 1rem auto;
         width: fit-content;
     }
@@ -351,7 +351,7 @@ h2 {
         margin-top: 1rem;
     }
 
-    #resume {
+    button {
         display: flex;
         justify-content: center;
         align-items: center;
