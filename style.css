@@ -242,7 +242,7 @@ h2 {
 }
 
 .skills-section h3 {
-    color: #817d7d;
+    color: #a7a0a0;
     margin: 2px 40px;
     font-size: 1.5rem;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
@@ -255,7 +255,7 @@ h2 {
 }
 
 .skills-section ul li {
-    background-color: #6a7f99;
+    background-color: #8c99a8;
     padding: 10px;
     margin: 5px 40px;
     width: 30rem;
@@ -302,6 +302,43 @@ h2 {
 
 .contact-info a:hover {
     color: #d2d823;
+}
+
+/* .footer {
+    background-color: #0d1634;
+} */
+
+.footer-container {
+    max-width: 100rem;
+    height: 8rem;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: #0d1634;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer-container p {
+    margin: 0;
+    padding: 10px 0;
+    color: #fff;
+}
+
+.social-icons {
+    margin: 10px 10px;
+}
+
+.social-icons a {
+    color: #fff;
+    margin: 10px 10px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #ddd;
 }
 
 /* Media Queries */
@@ -356,7 +393,6 @@ h2 {
     }
 
     .header {
-        /* margin: 1rem 2.25rem 1rem 2.25rem; */
         margin: 1rem;
     }
 
@@ -380,7 +416,7 @@ h2 {
 
     .skills-section h3{
         font-size: 20px;
-        margin: 2px 35px;
+        margin: 2px 0px;
     }
 
     .skills-section ul{

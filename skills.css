@@ -130,16 +130,14 @@ h2 {
 }
 
 .skills-section {
-    margin: 5px 0px 20px 70px;
+    margin: 20px 0px 20px 70px;
     width: 35rem;
     display: block;
-    animation: slideInLeft 2s ease-in-out;
-    animation: fadeIn 1.5s ease-in-out;
-    animation: slideIn 1.5s ease-in-out;
+    animation: slideInLeft 2s ease-in-out, fadeIn 1.5s ease-in-out, slideIn 1.5s ease-in-out;
 }
 
 .skills-section h3 {
-    color: #817d7d;
+    color: #a7a0a0;
     margin: 2px 40px;
     font-size: 1.5rem;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
@@ -152,7 +150,7 @@ h2 {
 }
 
 .skills-section ul li {
-    background-color: #6a7f99;
+    background-color: #8c99a8;
     padding: 10px;
     margin: 5px 40px;
     width: 30rem;
@@ -300,7 +298,7 @@ h2 {
     }
 
     .skills-heading{
-        margin: 5px 0px;
+        margin: 1px 0px;
     }
 
     .icons img {
@@ -318,8 +316,13 @@ h2 {
     }
 
     .skills-section h3{
-        font-size: 12px;
-        margin: 2px 25px;
+        font-size: 20px;
+        margin: 2px 0px;
+    }
+
+    .skills-section ul{
+        font-size: 5px;
+        width: 450px;
     }
 }
 
