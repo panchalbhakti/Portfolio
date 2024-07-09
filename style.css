@@ -301,12 +301,8 @@ h2 {
 }
 
 .contact-info a:hover {
-    color: #d2d823;
+    color: #7b7e1f;
 }
-
-/* .footer {
-    background-color: #0d1634;
-} */
 
 .footer-container {
     max-width: 100rem;
