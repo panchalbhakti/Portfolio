@@ -138,7 +138,6 @@ h1 {
     margin-top: 20px;
     font-family: monospace;
     padding: 1px;
-    font-size: 25px;
     white-space: nowrap;
     overflow: hidden;
     border-right: 0.15em solid orange;
@@ -386,6 +385,7 @@ h2 {
         display: flex;
         justify-content: center;
         align-items: center;
+        text-decoration: none;
     }
 
     .header {
