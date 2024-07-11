@@ -133,11 +133,12 @@ h2 {
     margin: 20px 0px 20px 70px;
     width: 35rem;
     display: block;
-    animation: slideInLeft 2s ease-in-out, fadeIn 1.5s ease-in-out, slideIn 1.5s ease-in-out;
+    /* animation: slideInLeft 2s ease-in-out, fadeIn 1.5s ease-in-out, slideIn 1.5s ease-in-out; */
+    animation: fadeIn 1.5s ease-in-out, slideIn 1.5s ease-in-out;
 }
 
 .skills-section h3 {
-    color: #a7a0a0;
+    color: #cfc5c5;
     margin: 2px 40px;
     font-size: 1.5rem;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
@@ -156,7 +157,7 @@ h2 {
     width: 30rem;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(136, 135, 135, 0.5);
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 600;
     font-size: 1.1rem;
 }
