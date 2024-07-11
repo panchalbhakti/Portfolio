@@ -254,7 +254,7 @@ h2 {
 }
 
 .skills-section ul li {
-    background-color: #8c99a8;
+    background-color: #afb5bb;
     padding: 10px;
     margin: 5px 40px;
     width: 30rem;
@@ -370,6 +370,7 @@ h2 {
     }
 
     .skills-section ul li {
+        background-color: #afb5bb;
         width: auto;
         margin: 5px 0;
         font-size: 11px;
