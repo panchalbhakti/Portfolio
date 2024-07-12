@@ -227,6 +227,10 @@ strong {
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.6);
 }
 
+.heart {
+    color: rgb(198, 32, 32);
+}
+
 @media (max-width: 1400px) {
 
     nav {

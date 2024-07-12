@@ -166,6 +166,10 @@ h3 {
     animation: slideIn 1.5s ease-in-out;
 }
 
+.heart {
+    color: rgb(198, 32, 32);
+}
+
 @media (max-width : 1400px){
     .quali-heading {
         width: 10rem;
