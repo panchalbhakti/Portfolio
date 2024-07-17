@@ -269,7 +269,7 @@ h2 {
     background: rgba(21, 33, 71, 0.9);
     padding: 2rem 3rem;
     border-radius: 15px;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.9);
+    box-shadow: 0 8px 20px rgba(108, 107, 107, 0.9);
     text-align: center;
     animation: fadeIn 1.5s ease-in-out;
     border-radius: 0.5rem;
@@ -342,7 +342,7 @@ h2 {
 }
 
 /* Media Queries */
- @media (max-width: 826px) {  
+@media (max-width: 826px) {  
     .hero-content {
         flex-direction: column;
     }
