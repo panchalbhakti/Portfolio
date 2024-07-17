@@ -87,6 +87,12 @@ nav {
     align-items: center;
 }
 
+.project-sec3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .projects-title {
     text-align: center;
     margin-bottom: 1rem;
