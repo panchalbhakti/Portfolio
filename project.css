@@ -60,7 +60,7 @@ nav {
 
 .projects {
     background-color: var(--bg-color);
-    padding: 33px 0;
+    padding: 32px 0;
     margin-top: 0.4rem;
 }
   
@@ -110,7 +110,7 @@ nav {
   
 .project-container {
     text-align: center;
-    width: 21.875rem;
+    width: 21.876rem;
     animation: slideInLeft 1.5s ease-in-out; 
     animation: slideIn 1.5s ease-in-out;
     animation: fadeIn 1.5s ease-in-out;
