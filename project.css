@@ -167,7 +167,7 @@ nav {
     padding: 20px;
     margin: 10px;
     box-shadow: 0 4px 8px rgb(18, 18, 18);
-    max-height: fit-content;
+    max-height: max-content;
 }
 
 .project-card img {
