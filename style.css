@@ -145,13 +145,12 @@ h1 {
 }
 
 .quote{
-    font-size: 33px;
     margin-top: 10px;
     font-family: monospace;
     padding: 1px;
-    font-size: 20px;
-    color: #a8a1a1;
-    text-shadow: 2px 2px 5px rgba(143, 101, 166, 0.8);
+    font-size: 25px;
+    color: #c4b8b8;
+    text-shadow: 2px 2px 5px rgba(7, 0, 10, 0.8);
     text-align: center;
 }
 
