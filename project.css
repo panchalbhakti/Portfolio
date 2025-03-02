@@ -295,6 +295,20 @@ nav {
         flex-direction: column;
     }
 
+    .project-sec3{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .project-sec4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
     .project-card{
         width: 330px;
     }
