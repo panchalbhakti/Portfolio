@@ -70,7 +70,7 @@ nav {
     font-family:'Montserrat',sans-serif;
     position:relative;
     color: #38383c;
-    animation: popIn 2s ease-in-out;
+    animation: popIn 2.5s ease-in-out;
 }
 
 .container {
